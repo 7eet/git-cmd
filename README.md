@@ -7,7 +7,7 @@
    - **enter repository name**
    - **then hit Create repository button**
 
-          *copy that https- https://github.com/username/repo_name.git*
+   *copy that https- https://github.com/username/repo_name.git*
 
 2. **create a directory on your PC**
    - **then open the directory in terminal**
