@@ -24,12 +24,12 @@
 
 
 ### To add file
- ` git add <file-name>
+ ` git add <file-name>`
 
 
 
 ### Commit changes
- `$ git commit -m " some message"
+ `$ git commit -m " some message"`
 
 
 
@@ -63,15 +63,17 @@
 
 
 ### Metadata and content of a specific commit
- `$ git show <commit id>
+ `$ git show <commit id>`
 
 
 
+### Push changes
+ `$ git push origin <branch-name>`
 
 
 
-
-
+### Pull changes
+ `$ git pull origin <branch-name>`
 
 
 
