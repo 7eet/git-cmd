@@ -22,6 +22,17 @@
      ```
 
 
+
+### To add file
+ ` git add <file-name>
+
+
+
+### Commit changes
+ `$ git commit -m " some message"
+
+
+
 ### Status of working directory
  `$ git status`
 
@@ -49,6 +60,11 @@
 ### History of branch
 
  `$ git log`
+
+
+### Metadata and content of a specific commit
+ `$ git show <commit id>
+
 
 
 
