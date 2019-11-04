@@ -28,22 +28,22 @@
 
 ### Create new branch 
 
- `git branch <branch-name>`
+ `$ git branch <branch-name>`
 
 
 ### Delete branch
 
- `git branch -D <branch-name>`
+ `$ git branch -D <branch-name>`
 
 
 ### Switch to new branch 
 
- `git checkout <branch-name>`
+ `$ git checkout <branch-name>`
 
 
 ### History of branch
 
- `git log`
+ `$ git log`
 
 
 
