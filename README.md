@@ -22,6 +22,11 @@
      ```
 
 
+### Status of working directory
+ `$ git status`
+
+
+
 ### Clone repository
  `$ git clone <url>`
 
