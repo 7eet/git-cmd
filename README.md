@@ -23,7 +23,9 @@
 
 
 ### Clone repository
-    ` git clone <url> `
+    ``` 
+       $ git clone <url> 
+    ```
 
 
 ### Create new branch 
